@@ -1,10 +1,10 @@
 # Diabetes Prediction Application using Machine Learning.
 
-## table of content
+## Table Of Content
 
-* [overview](overview)
-* [Learning Objective](Learning#Objective)
-* [Technologies](Technologies)
+* [overview]()
+* [Learning Objective]()
+* [Technologies]()
 
 
 ## overview
